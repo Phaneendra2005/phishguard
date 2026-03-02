@@ -8,12 +8,13 @@ by Kanduri Phaneendra et al., RGMCET, Andhra Pradesh.
 
 ## 🚀 Live Demo
 
+👉 [Click Here to Try PhishGuard](https://phishguard-kanduri.netlify.app)
+
 Just open `index.html` in any browser — no server needed!
 
 ---
 
 ## 📁 Project Structure
-
 ```
 phishguard/
 ├── index.html        # Main app (all-in-one HTML + CSS + JS)
@@ -79,7 +80,9 @@ phishguard/
 
 **Kanduri Phaneendra**
 B.Tech CSE (Cyber Security) — RGMCET, Nandyal
-GitHub: [Phaneendra2005](https://github.com/Phaneendra2005)
+- 🔗 GitHub: [Phaneendra2005](https://github.com/Phaneendra2005)
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 📧 kphaneendra2005@gmail.com
 
 ---
 
