@@ -81,7 +81,7 @@ phishguard/
 **Kanduri Phaneendra**
 B.Tech CSE (Cyber Security) — RGMCET, Nandyal
 - 🔗 GitHub: [Phaneendra2005](https://github.com/Phaneendra2005)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 💼 LinkedIn: [Phaneendra Kanduri](https://www.linkedin.com/in/phaneendra-kanduri-067520280/)
 - 📧 kphaneendra2005@gmail.com
 
 ---
