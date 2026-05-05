@@ -6,10 +6,6 @@ by Kanduri Phaneendra et al., RGMCET, Andhra Pradesh.
 
 ---
 
-## 🚀 Live Demo
-
-👉 [Click Here to Try PhishGuard](https://phishguard-kanduri.netlify.app)
-
 Just open `index.html` in any browser — no server needed!
 
 ---
